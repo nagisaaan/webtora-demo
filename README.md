@@ -44,7 +44,7 @@ Tkinter製GUI: 全体位置のリアルタイム調整、カウントダウン�
 動作環境
 OS：Windows
 
-Python：3.x
+Python：3.10
 
 Webカメラ必須
 
@@ -55,6 +55,12 @@ Python / MediaPipe Pose / OpenCV / NumPy / SciPy / Tkinter / python-osc
 
 セットアップ（概要）
 必要なライブラリをインストール
+https://www.python.org/downloads/release/python-3100/
+
+poetry install
+
+poetry run python webutora_osc_sender.py
+
 
 VRChat側でOSCを有効化
 
