@@ -72,6 +72,9 @@ GUIからトラッキング開始、初回キャリブレーションを実行
 
 改造・実験しやすい構造を重視しています。
 
+動作している様子はここから
+https://www.youtube.com/watch?v=n2ApPbEG0XY&feature=youtu.be
+
 ## 作者メモ
 これは完成品というより、実験装置っす。
 
