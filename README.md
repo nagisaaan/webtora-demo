@@ -57,9 +57,7 @@ Python / MediaPipe Pose / OpenCV / NumPy / SciPy / Tkinter / python-osc
 必要なライブラリをインストール
 https://www.python.org/downloads/release/python-3100/
 
-poetry install
-
-poetry run python webutora_osc_sender.py
+Webtoraファイルだけをデスクトップに配置
 
 
 VRChat側でOSCを有効化
