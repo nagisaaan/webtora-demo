@@ -473,7 +473,7 @@ def run_flask():
 class AppGUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("VRChat AI Tracker (Twist & 3-Axis)")
+        self.root.title("WebTora(Demo)")
         self.root.geometry("600x980") # 少し高さを広げました
 
 
