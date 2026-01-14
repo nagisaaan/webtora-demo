@@ -59,6 +59,10 @@ https://www.python.org/downloads/release/python-3100/
 
 Webtoraファイルだけをデスクトップに配置
 
+初回のみsetup.batをクリック
+
+run.batを押して起動
+
 
 VRChat側でOSCを有効化
 
